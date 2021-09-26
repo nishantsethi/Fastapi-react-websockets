@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "Log Path 1",
+        "group" : "app logs",
+        "path": "example.log"
+    },
+    {
+        "name" : "Log Path 2",
+        "group" : "website logs",
+        "path": "example2.log"
+    }
+]
